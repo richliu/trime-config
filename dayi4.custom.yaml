@@ -1,0 +1,5 @@
+
+patch:
+  reverse_lookup/dictionary: bopomofo_tw
+  reverse_lookup/tips: [注音]
+  reverse_lookup/preedit_format: []
