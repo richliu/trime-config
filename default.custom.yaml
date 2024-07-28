@@ -4,6 +4,10 @@ patch:
     page_size: 9
   schema_list:
     - schema: dayi4
+    - schema: bopomofo_tw
+    - schema: luna_pinyin_simp
+    - schema: luna_pinyin
+
     #- schema: jyut6ping3_pinyin
     #- schema: clover_jyutping
     #- schema: clover_show_jyutping
